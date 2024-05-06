@@ -16,7 +16,7 @@ Type in: WSReset.exe
 This will clear the cache if needed.  
   
 # 为Windows 11 Enterprise LTSC增加应用商店
-适用于Windows 11 Enterprise LTSC 2021
+适用于Windows 11 Enterprise LTSC 2024
 
 [下载地址](https://github.com/tshemeng/LTSC-Add-MicrosoftStore-2024/releases)  
 ## 要开始安装, 请打包下载后用右键管理员运行 Add-Store.cmd   
